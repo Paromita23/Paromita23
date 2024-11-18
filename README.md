@@ -17,7 +17,6 @@
 Reach out to me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 # Languages and Tools
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -35,5 +34,3 @@ Reach out to me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-t
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-00008B?style=for-the-badge&logo=deepmind&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-

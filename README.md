@@ -12,9 +12,12 @@
 
 ⚡ Fun fact: Brain Games, Puzzles, Competitive games, 
 
-# Connect with Me for Hiring: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paromitasaha0720)
+# Connect with Me for Hiring: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paromitasaha0720)
 
-Reach out to me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paromitasaha0720@gmail.com)
+Reach out to me: 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paromitasaha0720@gmail.com)
+
 
 # Languages and Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)

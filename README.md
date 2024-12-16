@@ -13,7 +13,10 @@
 ⚡ Fun fact: Brain Games, Puzzles, Competitive games, 
 
 # Connect with Me for Hiring: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paromitasaha0720)
+LinkedIn Profile : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paromitasaha0720)
+
+![LinkedIn Profile](https://github.com/user-attachments/assets/36cd0cab-89bd-472c-9b03-762f411ad851)
+
 
 Reach out to me: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://mail.google.com/paromitasaha0720@gmail.com)

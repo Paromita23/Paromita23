@@ -15,7 +15,7 @@
 # Connect with Me for Hiring: 
 LinkedIn Profile : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paromitasaha0720)
 
-![LinkedIn Profile](https://github.com/user-attachments/assets/36cd0cab-89bd-472c-9b03-762f411ad851)
+![Linkedin P](https://github.com/user-attachments/assets/d2c0067a-6ccb-4040-bea5-031aef4df12a)
 
 
 Reach out to me: 

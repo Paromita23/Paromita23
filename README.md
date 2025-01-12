@@ -1,4 +1,4 @@
-##👋 Hi, I’m @ParomitaSaha Data Analyst
+## 👋 Hi, I’m @ParomitaSaha Data Analyst
 
 👀 I’m currently/actively looking for a job in Data Analytics 
 

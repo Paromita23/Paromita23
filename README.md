@@ -19,7 +19,7 @@ LinkedIn Profile : [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?sty
 
 
 Reach out to me: 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">paromitasaha0720@gmail.com</a>)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:"https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"paromitasaha0720@gmail.com)
 
 
 # Languages and Tools
